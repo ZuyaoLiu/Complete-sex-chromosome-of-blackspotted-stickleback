@@ -37,6 +37,7 @@ Our solution to this is to use a phasing approach, on the Autosome + X assembly,
 We are still in the process of validating each step, and the final assembly. But below are the statistics, and plots that we have generated so far. 
 
 |             | Autos & X  |  Y  | 
+|-------------|------------|-----|
 | Genome size |            |     |
 | N50         |            |     |
 | BUSCO       |            |     |
