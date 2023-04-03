@@ -9,4 +9,4 @@ However, in many cases, crosses are not available, as with the blackspotted stic
 
 The workflow is laid out below:
 
-![Phased Y assemnbly pipeline](https://user-images.githubusercontent.com/49354864/188383620-8a53565a-a635-4eea-bd25-5a22287a8474.png)
+![Phased Y assemnbly pipeline](https://github.com/ZuyaoLiu/Evolution-of-magic-sex-chromosomes-of-stickleback/blob/main/Magic%20Y%20pipeline_DLJ.pdf)
