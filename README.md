@@ -44,11 +44,12 @@ However, this doesn't tell us if we are i>only</i> pulling out Y-specific reads,
 
 We are still in the process of validating each step, and the final assembly. But below are the statistics, and plots that we have generated so far. 
 
-|             | Autos & X  |  Y  | 
-|-------------|------------|-----|
-| Genome size |            |     |
-| N50         |            |     |
-| BUSCO       |            |     |
+|                     | Autos & X  |  Y  | 
+|:-------------------:|:----------:|:---:|
+| Genome size         |            |     |
+| Unpaced size (N/Mb) |            |     |
+| N50                 |            |     |
+| BUSCO               |            |     |
 
 
 
