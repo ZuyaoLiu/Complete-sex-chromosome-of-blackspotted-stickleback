@@ -1,5 +1,8 @@
 # Assembling the Y chromosome of the blackspotted stickleback (<i>Gasterosteus wheatlandi</i>)
 
+Zuyao Liu & Daniel L. Jeffries (daniel.jeffries@unibe.ch)
+
+
 ## Background
 Assembling Y chromosomes is a tricky task. Sex chromosomes often contain large regions which do not recombine between the X and Y (or Z and W). In these regions the gametologs differentiate from one another, resulting in high heterozygosity and eventually hemizygostiy. However homology is often retained. The result is a chromosome with interpsersed regions of homology, heterozygosity and hemizygosity. This causes many problems for assemblers. The heterozygous regions create complex assembly graphs which cannot be resolved easily, and this often results in chimeric contigs and scaffolds, containing portions of both gametolg haplotypes. 
 
