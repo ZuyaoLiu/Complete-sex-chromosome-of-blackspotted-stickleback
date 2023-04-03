@@ -34,6 +34,14 @@ Our solution to this is to use a phasing approach, on the Autosome + X assembly,
 
 ## Validation
 
+To validate the Y-specific read identification step, we first assembled all the PacBio reads, and aligned the WGS data to the resulting assembly. We then plotted M vs F coverage in 1kb bins across the entire dataset. We expect that the majority of the genome (autosomes) show a 1:1 ratio of read depth between the sexes (large cloud of points on the white 1:1 line). Then, X-specific regions will have 2n coverage in females, and only 1n coveage in males (see red dashed box). Finally, Y-specific regions should have 1n coverage in males and 0 coverage in females (blue dashed box). All three of these genome regions can be seen clearly. We then performed our Kmer analyses to pull out putatively Y-specific reads, we then reassembled the PacBio data and repeated the male vs female coverage analyses using the WGS data. You can clearly see that the Y-specific cloud of points is completely removed. Suggesting that we are doing a good job of retrieving Y-specific reads. 
+
+![Validating Y-specific read identification](https://github.com/ZuyaoLiu/Evolution-of-magic-sex-chromosomes-of-stickleback/blob/main/Kmer_Yread_identification.png)
+
+However, this doesn't tell us if we are i>only</i> pulling out Y-specific reads, or if we are getting all of them.  Thus we still need to perform some further validation steps to check this. 
+
+## Assembly statistics
+
 We are still in the process of validating each step, and the final assembly. But below are the statistics, and plots that we have generated so far. 
 
 |             | Autos & X  |  Y  | 
