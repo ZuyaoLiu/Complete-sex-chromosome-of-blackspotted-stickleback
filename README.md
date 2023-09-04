@@ -14,7 +14,7 @@ However, in many cases, crosses are not available, as with the blackspotted stic
 
 The workflow is laid out below:
 
-![Phased Y assemnbly pipeline](https://github.com/ZuyaoLiu/Evolution-of-magic-sex-chromosomes-of-stickleback/blob/main/Assembl-Y_pipline.png)
+![Phased Y assemnbly pipeline](https://github.com/ZuyaoLiu/Evolution-of-magic-sex-chromosomes-of-stickleback/blob/main/Magic%20Y%20pipeline_DLJ.png)
 
 The general approach consits of 3 steps:
 
