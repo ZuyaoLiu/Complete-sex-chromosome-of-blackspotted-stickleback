@@ -38,7 +38,7 @@ To validate the Y-specific read identification step, we first assembled all the 
 
 ![Validating Y-specific read identification](https://github.com/ZuyaoLiu/Evolution-of-magic-sex-chromosomes-of-stickleback/blob/main/Kmer_Yread_identification.png)
 
-However, this doesn't tell us if we are i>only</i> pulling out Y-specific reads, or if we are getting all of them.  Thus we still need to perform some further validation steps to check this. 
+However, this doesn't tell us if we are <i>only</i> pulling out Y-specific reads, or if we are getting all of them.  Thus we still need to perform some further validation steps to check this. 
 
 ## Assembly statistics
 
