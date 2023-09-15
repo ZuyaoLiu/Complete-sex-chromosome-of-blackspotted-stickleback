@@ -42,7 +42,7 @@ However, this doesn't tell us if we are <i>only</i> pulling out Y-specific reads
 
 ## Assembly statistics
 
-We are still in the process of validating each step, and the final assembly. But below are the statistics, and plots that we have generated so far. 
+We are still in the process of validating each step, and the final assembly. Once this is done the statistics will be added below. 
 
 |                     | Autos & X  |  Y  | 
 |:-------------------:|:----------:|:---:|
